@@ -29,7 +29,7 @@ Este projeto faz parte do programa DEVstart e demonstra domínio sólido de mani
 ## 🎬 Demonstração
 
 <p align="center">
-  <img src="https://github.com/snakegirlcode/notas-atletas/assets/execucao.gif" width="600"/>
+  <img src="assets/execucao.gif" width="800"/>
 </p>
 
 ---
